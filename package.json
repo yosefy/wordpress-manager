@@ -1,0 +1,18 @@
+{
+  "name": "wordpress-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "datatables.net": "^1.13.4",
+    "datatables.net-buttons-dt": "^2.3.6",
+    "datatables.net-dt": "^1.13.4",
+    "datatables.net-searchpanes-dt": "^2.1.2",
+    "jquery": "^3.6.4"
+  }
+}

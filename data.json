@@ -1,0 +1,727 @@
+{
+  "data": [
+    {
+      "plugin_name": "admin-menu-editor",
+      "site_urls": [
+        {
+          "site_url": "https://hr.kabbalah.info",
+          "path": "/sites/hr.kabbalah.info/public/",
+          "container": "158",
+          "server": "on1",
+          "p_status": "active",
+          "p_version": "1.4.8",
+          "p_update_version": "1.9.1"
+        },
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.8",
+          "p_update_version": "1.9.10"
+        }
+      ]
+    },
+    {
+      "plugin_name": "admin-accelerator",
+      "site_urls": [
+        {
+          "site_url": "https://hr.kabbalah.info",
+          "path": "/sites/hr.kabbalah.info/public/",
+          "container": "158",
+          "server": "on1",
+          "p_status": "active",
+          "p_version": "3.2.8",
+          "p_update_version": "5.9.10"
+        }
+      ]
+    },
+    {
+      "plugin_name": "advanced-custom-fields-pro",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "5.7.13",
+          "p_update_version": "5.10.2"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "5.7.12",
+          "p_update_version": "5.10.2"
+        }
+      ]
+    },
+    {
+      "plugin_name": "amp",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.1.0",
+          "p_update_version": "2.1.4"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.1.0",
+          "p_update_version": "2.1.4"
+        }
+      ]
+    },
+    {
+      "plugin_name": "cackle",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "inactive",
+          "p_version": "4.30",
+          "p_update_version": "4.33"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "inactive",
+          "p_version": "4.30",
+          "p_update_version": "4.33"
+        }
+      ]
+    },
+    {
+      "plugin_name": "classic-editor",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.4",
+          "p_update_version": "1.6.2"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.4",
+          "p_update_version": "1.6.2"
+        }
+      ]
+    },
+    {
+      "plugin_name": "codestyling-localization",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "inactive",
+          "p_version": "1.99.30",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "inactive",
+          "p_version": "1.99.30",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "contact-form-7",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "5.1.1",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "5.1.1",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "cyr3lat",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "3.5",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "3.5",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "disqus-comment-system",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "3.0.17",
+          "p_update_version": "3.0.22"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "3.0.17",
+          "p_update_version": "3.0.22"
+        }
+      ]
+    },
+    {
+      "plugin_name": "duplicate-post",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "3.2.2",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "3.2.2",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "duplicator",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.3.10",
+          "p_update_version": "1.4.3"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.3.10",
+          "p_update_version": "1.4.3"
+        }
+      ]
+    },
+    {
+      "plugin_name": "easy-fancybox",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.8.15",
+          "p_update_version": "1.8.18"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.8.15",
+          "p_update_version": "1.8.18"
+        }
+      ]
+    },
+    {
+      "plugin_name": "email-subscribers",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "4.0.14.1",
+          "p_update_version": "4.8.3"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "4.0.14.1",
+          "p_update_version": "4.8.3"
+        }
+      ]
+    },
+    {
+      "plugin_name": "filenames-to-latin",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "2.6",
+          "p_update_version": "2.7"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "2.6",
+          "p_update_version": "2.7"
+        }
+      ]
+    },
+    {
+      "plugin_name": "better-wp-security",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "7.3.3",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "7.3.3",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "metronet-tag-manager",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.5.0",
+          "p_update_version": "1.5.4"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.5.0",
+          "p_update_version": "1.5.4"
+        }
+      ]
+    },
+    {
+      "plugin_name": "qtranslate-x",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "inactive",
+          "p_version": "3.4.6.8",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "inactive",
+          "p_version": "3.4.6.8",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "strong-testimonials",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "2.37",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "2.37",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "tinymce-advanced",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "5.0.1",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "5.1.0",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "types",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "2.3.5",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "2.3.5",
+          "p_update_version": null
+        }
+      ]
+    },
+    {
+      "plugin_name": "wp-maintenance-mode",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "inactive",
+          "p_version": "2.2.4",
+          "p_update_version": "2.4.1"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "2.2.4",
+          "p_update_version": "2.4.1"
+        }
+      ]
+    },
+    {
+      "plugin_name": "wps-hide-login",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "1.5.2.1",
+          "p_update_version": "1.8.6"
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "1.5.2.1",
+          "p_update_version": "1.8.6"
+        }
+      ]
+    },
+    {
+      "plugin_name": "wordpress-seo",
+      "site_urls": [
+        {
+          "site_url": "https://torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/public/",
+          "container": "158",
+          "server": "on2",
+          "p_status": "active",
+          "p_version": "11.0",
+          "p_update_version": null
+        },
+        {
+          "site_url": "https://dev-torah.kabbalah.info",
+          "path": "/sites/torah.kabbalah.info/dev/",
+          "container": "158",
+          "server": "on3",
+          "p_status": "active",
+          "p_version": "11.0",
+          "p_update_version": null
+        }
+      ]
+    }
+  ]
+}
