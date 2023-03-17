@@ -1,0 +1,7 @@
+1. finalize modal margin filter for versions
+2. make page for URLs, their WP versions and update versions
+3. Add columns to plugins and themes tables:
+4. total usage: shows all versions and how many users use it (maybe use
+   tooltipjust showing version # and while hover, shows number of active and
+   inactive or Info inside row)
+5. Up to date # of plugin and themes.
