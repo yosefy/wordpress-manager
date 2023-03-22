@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="description"
+      content="Site that takes all the wordpress info and shows it in a comfortable UI"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BB WordPress UI!</title>
+  <script defer src="./src/vendors-node_modules_bootstrap_dist_js_bootstrap_esm_js-node_modules_css-loader_dist_cjs_js_n-af9b85.bundle.js"></script><script defer src="./src/src_styles_scss-src_components_Section_js-src_utils_helpers_js-data_image_png_base64_iVBORw0K-211c8d.bundle.js"></script><script defer src="./src/index.bundle.js"></script></head>
+  <body>
+    <div class="container container-xxl">
+      <header class="container-fluid pb-2">
+        <div class="row">
+          <div class="col">
+            <h1>BB WordPress UI</h1>
+          </div>
+          <div class="col">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+              <div class="container-fluid">
+                <button
+                  class="navbar-toggler"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#navbarNav"
+                  aria-controls="navbarNav"
+                  aria-expanded="false"
+                  aria-label="Toggle navigation"
+                >
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <na class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav">
+                    <li class="nav-item">
+                      <a
+                        class="nav-link active"
+                        aria-current="page"
+                        href="/"
+                        data-link
+                        >Home</a
+                      >
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="/plugins.html" data-link
+                        >Plugins</a
+                      >
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="themes.html">Themes</a>
+                    </li>
+                  </ul>
+                </na>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </header>
+      <main>
+        <table id="data-table" class="display table table-striped responsive">
+          <thead>
+            <tr>
+              <th></th>
+              <th></th>
+              <th></th>
+              <th></th>
+              <th></th>
+            </tr>
+          </thead>
+        </table>
+      </main>
+    </div>
+    <!-- Modal -->
+    <div
+      class="modal fade"
+      id="modal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div
+        class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl"
+      >
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="modal-label">Modal title</h1>
+            <button
+              type="button"
+              id="modal-button-close"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body"></div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+    <template id="modal-table">
+      <table class="display table table-striped responsive" style="width: 100%">
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>Version</th>
+            <th>Update Version</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+      </table>
+    </template>
+  </body>
+</html>
