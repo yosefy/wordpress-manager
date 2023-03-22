@@ -1,13 +1,19 @@
 {
   "name": "wordpress-manager",
   "version": "1.0.0",
+  "repository": {
+    "url": "git+https://github.com/BarakBarz/wordpress-manager.git"
+  },
   "description": "",
   "source": ".src/index.js",
   "scripts": {
+    "build": "webpack --mode=development",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --progress --watch",
     "start": "webpack  serve  --mode development --open",
-    "production": "webpack  serve  --open"
+    "production": "webpack  serve  --open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
@@ -23,6 +29,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "css-loader": "^6.7.3",
+    "gh-pages": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "json5": "^2.2.3",
     "postcss-loader": "^7.1.0",
