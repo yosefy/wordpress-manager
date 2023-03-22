@@ -1,10 +1,4 @@
-import $ from 'jquery';
-import 'datatables.net-select-bs5/css/select.bootstrap5.min.css';
-import 'datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css';
-import 'datatables.net-searchpanes-bs5/css/searchpanes.bootstrap5.min.css';
-import DataTable from 'datatables.net-responsive-bs5';
 import 'datatables.net-searchpanes-bs5';
-
 import 'datatables.net-select-bs5';
 
 export default class Table {
@@ -22,7 +16,7 @@ export default class Table {
     this._element = null;
   };
 
-  aggregateDataToTable = async () => {
+  aggregateDataToTable = async (DataTable) => {
     let table;
 
     await new Promise((resolve) => {

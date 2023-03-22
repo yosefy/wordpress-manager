@@ -2,20 +2,37 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
 const json5 = require('json5');
 
+const pages = ['index', 'themes', 'plugins'];
+
 module.exports = {
-  plugins: [
-    new HtmlWebpackPlugin({
-      template: './src/index.html',
-    }),
-  ],
+  entry: pages.reduce((config, page) => {
+    config[page] = `./src/${page}.js`;
+    return config;
+  }, {}),
   output: {
-    filename: '[name].bundle.js',
+    filename: './src/[name].bundle.js',
     path: path.resolve(__dirname, 'dist'),
+  },
+  plugins: [].concat(
+    pages.map(
+      (page) =>
+        new HtmlWebpackPlugin({
+          inject: true,
+          template: `./src/${page}.html`,
+          filename: `${page}.html`,
+          chunks: [page],
+        }),
+    ),
+  ),
+  optimization: {
+    splitChunks: {
+      chunks: 'all',
+    },
   },
   module: {
     rules: [
       {
-        test: /\.css$/i,
+        test: /\.css$/,
         use: ['style-loader', 'css-loader'],
       },
       {
@@ -29,6 +46,28 @@ module.exports = {
           parse: json5.parse,
         },
       },
+      {
+        test: /\.(scss)$/,
+        use: [
+          {
+            loader: 'style-loader',
+          },
+          {
+            loader: 'css-loader',
+          },
+          {
+            loader: 'postcss-loader',
+            options: {
+              postcssOptions: {
+                plugins: () => [require('autoprefixer')],
+              },
+            },
+          },
+          {
+            loader: 'sass-loader',
+          },
+        ],
+      },
     ],
   },
   devtool: 'source-map',
@@ -38,5 +77,6 @@ module.exports = {
   devServer: {
     static: './dist',
     port: 5500,
+    hot: true,
   },
 };
