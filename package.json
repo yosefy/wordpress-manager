@@ -2,17 +2,35 @@
   "name": "wordpress-manager",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "source": ".src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --progress --watch",
+    "start": "webpack  serve  --mode development --open",
+    "production": "webpack  serve  --open"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "datatables.net": "^1.13.4",
-    "datatables.net-buttons-dt": "^2.3.6",
-    "datatables.net-dt": "^1.13.4",
-    "datatables.net-searchpanes-dt": "^2.1.2",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "datatables.net-bs5": "^1.13.4",
+    "datatables.net-responsive-bs5": "^2.4.1",
+    "datatables.net-searchpanes-bs5": "^2.1.2",
+    "datatables.net-select-bs5": "^1.6.2",
     "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "json5": "^2.2.3",
+    "postcss-loader": "^7.1.0",
+    "sass": "^1.59.3",
+    "sass-loader": "^13.2.0",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.12.0"
   }
 }
